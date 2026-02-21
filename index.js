@@ -15,7 +15,7 @@ applySavedTheme();
 
 function updateLogo() {
     const isDark = document.body.classList.contains('dark-theme');
-    document.getElementById('logo-img').src = isDark ? 'logo-dark.png' : 'logo1.png';
+    document.getElementById('logo-img').src = isDark ? 'logo-dark.png' : 'logo-light.png';
 }
 
 function toggleTheme() {

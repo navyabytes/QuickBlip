@@ -60,7 +60,7 @@ body.dark-theme header {
     background: none;
     border: none;
     vertical-align: middle;
-    object-fit: cover;
+    object-fit: contain;
     transition: transform 0.2s;
 }
 

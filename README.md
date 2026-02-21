@@ -56,8 +56,8 @@ QuickBlip/
 │   └── styles.css              # Global styles
 │
 └── 🎨 Assets
-    ├── logo-dark.png           # Dark theme logo
-    └── logo1.png               # Primary logo
+    ├── logo-light.png          # Light theme logo
+    └── logo-dark.png           # Dark theme logo
 ```
 
 ---
